@@ -1,0 +1,27 @@
+.container{
+    background-color: cornflowerblue;
+    border:solid 1px black;
+    height:700px;
+    width:500px;
+    margin:2% 20%;
+    margin-left: 35%;
+}
+.heading{
+    padding:5px 140px;
+    text-align: center;
+}
+#form{
+    text-align: center;
+    padding: 50px;
+    margin: 20px;
+}
+.button{
+  background-color: orange;
+  border:solid black;
+  color:black;
+  padding:15px 30px;
+  text-align: center;
+  font-size: 15px;
+  margin:4px 2px;
+  cursor: pointer;  
+}
